@@ -1,0 +1,9 @@
+zones: 
+  - exemple_1
+  - exemple_2
+  
+agriculture:
+  ble: true
+  carotte: true
+  patate: true
+  verrue: true

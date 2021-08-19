@@ -1,0 +1,6 @@
+main: fr.moderncraft.nathans.modernreplant.Main
+name: ModernReplant
+version: 1.0.0
+author: NathanS
+depend: [WorldGuard, WorldEdit]
+api-version: 1.16
